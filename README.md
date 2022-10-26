@@ -1,1 +1,1 @@
-# klinikapeople.github.io
+# klinikalpeople.github.io
